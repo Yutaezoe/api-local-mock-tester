@@ -1,5 +1,5 @@
 # Install
-npm init --yes
+npm init --yes  
 npm install --save-dev json-server
 
 
